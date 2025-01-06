@@ -1,6 +1,9 @@
  # SkySentiment: SEA Airline Review Insights
 #### Video Demo:  [SkySentiment Video](https://youtu.be/SXduPGu4eO0)
 
+#### NOTE:
+This project was cloned from my CS50P final project into my personal repository.
+
 #### Description:
 This project is a Python-based program that provides insights into customer satisfaction with the top 10 Southeast Asian (SEA) airlines using sentiment analysis of SkyTrax reviews. It analyzes review data to gauge public sentiment and presents the results through clear visual reports. The insights can help you decide which airline to book for your next trip, ensuring a better travel experience.
 
