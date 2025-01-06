@@ -1,0 +1,8 @@
+pandas
+re
+nltk
+vaderSentiment
+matplotlib
+fpdf2
+pyfiglet
+beaupy
